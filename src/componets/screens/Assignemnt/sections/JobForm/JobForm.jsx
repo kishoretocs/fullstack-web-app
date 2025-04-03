@@ -267,7 +267,7 @@ const JobForm = ({ onClose, onSubmitSuccess }) => {
         application_deadline: formData.applicationDeadline
       };
       try {
-        await axios.post("http://127.0.0.1:8000/api/jobs/", payload);
+        await axios.post("https://fullstack-web-app-backend.vercel.app/api/jobs/", payload);
         onSubmitSuccess();
       } catch (error) {
         console.error("Error:", error);
