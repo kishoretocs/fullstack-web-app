@@ -1,0 +1,66 @@
+.navbar-outer {
+    width: 100%;
+    margin: 10px;
+    background: #ffffff;
+    border-bottom: 1px solid #e0e0e0;
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  .navbar-container {
+    width: 100%;
+    max-width: 890px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 21px 250px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    border-radius: 39px;
+    border: #2d3748;
+  }
+  
+  .nav-left {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  
+  .nav-item {
+    color: #2d3748;
+    text-decoration: none;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    padding-right: 48px;
+    white-space: nowrap;
+  }
+  
+  /* .separator {
+    color: #cbd5e0;
+    font-weight: 300;
+    margin: 0 2px;
+  } */
+  
+  /* .nav-right {
+    display: flex;
+    align-items: center;
+  } */
+  
+  .create-job-btn {
+    background: #A128FF;
+    color: white;
+    padding: 14px 29px;
+    border: none;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  
+  .create-job-btn:hover {
+    background: #3182ce;
+  }

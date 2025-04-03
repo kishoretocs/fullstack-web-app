@@ -1,0 +1,22 @@
+.assignemnt {
+  background-color: #fbfbff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.assignemnt .div-2 {
+  background-color: #fbfbff;
+  height: 1024px;
+  position: absolute;
+  width: 1440px;
+}
+
+.assignemnt .overlap {
+  height: 214px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}

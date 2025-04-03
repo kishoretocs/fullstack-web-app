@@ -1,0 +1,7 @@
+.filter-container{
+    display: inline;
+    justify-content: center;
+    justify-items: center;
+    padding-top: 155px;
+    background-color: aqua;
+}

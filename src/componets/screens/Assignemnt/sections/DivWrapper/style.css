@@ -1,0 +1,223 @@
+.div-wrapper {
+    align-items: center;
+    display: inline-flex;
+    gap: 16px;
+    left: 64px;
+    position: absolute;
+    top: 641px;
+  }
+  
+  .div-wrapper .frame-22 {
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0px 0px 14px #d3d3d326;
+    height: 360px;
+    overflow: hidden;
+    position: relative;
+    width: 316px;
+  }
+  
+  .div-wrapper .frame-23 {
+    background: linear-gradient(
+      180deg,
+      rgba(254, 254, 253, 1) 0%,
+      rgba(241, 241, 241, 1) 100%
+    );
+    border-radius: 13.18px;
+    height: 82px;
+    left: 16px;
+    overflow: hidden;
+    position: absolute;
+    top: 16px;
+    width: 83px;
+  }
+  
+  .div-wrapper .frame-24 {
+    background-color: #ffffff;
+    border-radius: 102.5px;
+    height: 66px;
+    left: 9px;
+    overflow: hidden;
+    position: relative;
+    top: 8px;
+    width: 66px;
+  }
+  
+  .div-wrapper .image-4 {
+    height: 45px;
+    left: 10px;
+    position: absolute;
+    top: 14px;
+    width: 45px;
+  }
+  
+  .div-wrapper .text-wrapper-11 {
+    color: #000000;
+    font-family: "Satoshi Variable-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 116px;
+  }
+  
+  .div-wrapper .frame-25 {
+    align-items: center;
+    display: inline-flex;
+    gap: 16px;
+    left: 16px;
+    position: absolute;
+    top: 160px;
+  }
+  
+  .div-wrapper .frame-26 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 4px;
+    position: relative;
+  }
+  
+  .div-wrapper .frame-27 {
+    flex: 0 0 auto;
+    position: relative;
+  }
+  
+  .div-wrapper .text-wrapper-12 {
+    color: #5a5a5a;
+    font-family: "Satoshi Variable-Medium", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .div-wrapper .frame-28 {
+    align-items: flex-end;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 4px;
+    position: relative;
+  }
+  
+  .div-wrapper .frame-29 {
+    align-items: center;
+    background-color: #afd8ff;
+    border-radius: 10px;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 222px;
+    padding: 7px 10px;
+    position: absolute;
+    top: 16px;
+  }
+  
+  .div-wrapper .text-wrapper-13 {
+    color: #000000;
+    font-family: "Satoshi Variable-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .div-wrapper .frame-30 {
+    align-items: center;
+    background-color: #00aaff;
+    border: 1px solid;
+    border-radius: 10px;
+    box-shadow: 0px 0px 14px #5c5c5c26;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    left: 16px;
+    padding: 12px 10px;
+    position: absolute;
+    top: 298px;
+    width: 284px;
+  }
+  
+  .div-wrapper .text-wrapper-14 {
+    color: #ffffff;
+    font-family: "Satoshi Variable-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .div-wrapper .p {
+    color: #555555;
+    font-family: "Satoshi Variable-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 9px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 201px;
+    width: 300px;
+  }
+  
+  .div-wrapper .frame-31 {
+    background: linear-gradient(
+      180deg,
+      rgba(254, 254, 253, 1) 0%,
+      rgba(241, 241, 241, 1) 100%
+    );
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 13.18px;
+    box-shadow: 0px 0px 10.25px #94949440;
+    height: 82px;
+    left: 16px;
+    overflow: hidden;
+    position: absolute;
+    top: 16px;
+    width: 83px;
+  }
+  
+  .div-wrapper .frame-32 {
+    background-color: #f7881f;
+    border-radius: 93.33px;
+    height: 60px;
+    left: 12px;
+    overflow: hidden;
+    position: relative;
+    top: 11px;
+    width: 60px;
+  }
+  
+  .div-wrapper .image-5 {
+    height: 51px;
+    left: 2px;
+    position: absolute;
+    top: 2px;
+    width: 51px;
+  }
+  
+  .div-wrapper .image-6 {
+    height: 66px;
+    left: 9px;
+    object-fit: cover;
+    position: absolute;
+    top: 8px;
+    width: 66px;
+  }
+  
