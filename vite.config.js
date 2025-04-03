@@ -5,5 +5,5 @@ import { defineConfig } from "vite";
 export default defineConfig({
   plugins: [react()],
   publicDir: "./static",
-  base: "/fullstack-web-app",
+  base: "",
 });
