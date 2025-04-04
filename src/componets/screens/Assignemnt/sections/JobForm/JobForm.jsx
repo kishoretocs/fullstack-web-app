@@ -434,10 +434,9 @@ const JobForm = ({ onClose, onSubmitSuccess }) => {
         </div>
 
         {/* Action Buttons */}
-        <div className="frame-46">
           <button
             type="button"
-            className="publish-btn"
+            className="frame-46"
             onClick={() => handleSubmit('published')}
           >
             <div className="text-wrapper-23">Publish</div>
@@ -447,12 +446,12 @@ const JobForm = ({ onClose, onSubmitSuccess }) => {
               src="https://c.animaapp.com/m904vg1mRPnYLZ/img/vector-5.svg"
             />
           </button>
-        </div>
+    
 
-        <div className="frame-47">
+        
           <button
             type="button"
-            className="text"
+            className="frame-47"
             onClick={() => handleSubmit('draft')}
           >
             <div className="text-wrapper-24">Save Draft</div>
@@ -462,7 +461,7 @@ const JobForm = ({ onClose, onSubmitSuccess }) => {
               src="https://c.animaapp.com/m904vg1mRPnYLZ/img/vector-6.svg"
             />
           </button>
-        </div>
+    
       </div>
     </div>
   );
